@@ -1,3 +1,0 @@
-# Equity-Mechanismus
-
-*Inhalt folgt.*
