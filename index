@@ -1,0 +1,87 @@
+# NBA Equity Draft Framework (EDF)
+
+## Eine strukturelle Reform des NBA-Draft-Systems
+
+Das NBA Equity Draft Framework (EDF) ist ein systematischer Reformvorschlag für die First Round der NBA Draft.
+
+Ziel des Frameworks ist es, die strukturellen Tanking-Anreize des bestehenden Systems zu minimieren, ohne den kompetitiven Ausgleich für schwächere Teams aufzugeben.
+
+EDF verändert nicht einzelne Prozentwerte der Lottery, sondern die zugrunde liegende Anreizarchitektur.
+
+Der zentrale Gedanke lautet:
+
+> Der marginale Draft-Vorteil soll aus sportlicher Leistung im Saisonendspurt entstehen – nicht aus zusätzlichem Verlieren.
+
+---
+
+# Leitidee
+
+Das Framework basiert auf fünf Kernprinzipien:
+
+1. **Base als struktureller Ausgleich**
+2. **Equity als leistungsbasierte End-of-Season-Währung**
+3. **Full 1–14 Lottery ohne Rücksortierung**
+4. **Deterministische Playoff-Order mit gedämpfter Equity**
+5. **Strikte Poolbindung der Equity-Anwendung**
+
+Durch diese Kombination entsteht ein System, das Wettbewerb fördert, Trade-Kompatibilität erhält und strukturelle Arbitrage verhindert.
+
+---
+
+# Dokumentstruktur
+
+Die einzelnen Module des Frameworks sind im Folgenden dokumentiert:
+
+### Grundlagen
+
+- [01 – Pitch](01_pitch.md)
+- [02 – Systemüberblick](02_system_ueberblick.md)
+- [03 – The Final 29](03_final29.md)
+
+### Mechanik
+
+- [04 – Equity](04_equity.md)
+- [05 – Lottery (1–14)](05_lottery.md)
+- [06 – Playoff-Picks (15–30)](06_playoff_picks.md)
+- [07 – Trades](07_trades.md)
+
+### Analyse & Einordnung
+
+- [08 – Vorteile & Vergleich mit alternativen Draft-Systemen](08_vorteile_und_vergleich.md)
+
+### Vollständige mathematische Spezifikation
+
+- [EDF – Complete Mathematical Specification](EDF_COMPLETE_MATHEMATICS.md)
+
+---
+
+# Methodischer Anspruch
+
+EDF ist als regeltechnisch präzises Framework konzipiert.
+
+Alle Mechaniken sind:
+
+- mathematisch formalisiert  
+- deterministisch oder explizit probabilistisch definiert  
+- trade-kompatibel  
+- transparent und öffentlich überprüfbar  
+
+Das System ist modular aufgebaut und erlaubt Simulationen, Sensitivitätsanalysen und Parameteranpassungen (z. B. Dämpfungsfaktor λ).
+
+---
+
+# Zielsetzung
+
+EDF soll:
+
+- Tanking-Anreize strukturell minimieren  
+- Saisonendspiele aufwerten  
+- Competitive Balance erhalten  
+- Draft-Arbitrage verhindern  
+- die Draft-Logik rational konsistent gestalten  
+
+Das Framework versteht sich als analytischer Reformvorschlag zur Diskussion und Weiterentwicklung.
+
+---
+
+© NBA Equity Draft Framework
